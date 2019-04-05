@@ -1,0 +1,22 @@
+uniacid：未付款的
+price：价格；
+o_price：原价
+kind：类
+discuss：评论
+discuss_total：全部评论
+good_total：好评全部
+middle_total：中评
+bad_total：差评
+content：内容（详情页图片）
+d_week_status：------状态
+status：-------状态
+sort：排序  99---套餐   98~97~96~95~92----修脚  
+group_status：团购
+group_price：团购价
+group_total：团购总数
+group_number：几人团
+home ：1=到家服务
+shop：1=到店服务
+service_time：服务时长
+sold：已售数量
+content_type
